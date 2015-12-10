@@ -5,7 +5,7 @@ Text Data Presentation
 width: 1000
 height: 800
 author: Lisa Ling
-date: December 06 2015
+date: December 09 2015
 transition: rotate
 
 
@@ -92,11 +92,7 @@ Question--Information Extraction
 transition: none
 incremental: true
 
-- Consider various expressions. 
-    - No significant abnormality
-    - No acute intracranial abnormality
-    - No due to cervicalspine abnormality
-    - is uncertain whether this is a true lesion
+
 - Consider positive/negtive
     - No acute intracranial abnormality/ No abnormality
     - abnormality
@@ -124,7 +120,6 @@ incremental: true
 
 Example 1
 ========================================================
-CT abdomen and pelvis. CLINICAL INDICATION: Drop in hemoglobin. FINDINGS: Contrast-enhanced sections were obtained through the abdomen andpelvis. The liver, spleen, pancreas and kidneys are normal. The gallbladderand biliary tree are **normal** as well. There is **no** intra-abdominal **mass** or fluid **collection**. There is <span style="color:red">noabnormality</span> of large or small bowel. IMPRESSION: No significant **abnormality**.
 
 
 
@@ -133,7 +128,6 @@ Example 2
 ========================================================
 
 
-CT abdomen and pelvis, enhanced: INDICATION: Left lower quadrant pain. <span style="color:red">? diverticulitis</span>. COMPARISON: None  FINDINGS: There is mild dependent **atelectasis** at the lung bases. Thereis **no** **pleural** or **pericardial effusion**. The liver, biliary tree,gallbladder, pancreas, spleen, adrenal glands, kidneys, uterus, adnexaand bladder appear unremarkable. There is diffuse <span style="color:red">colonicdiverticulosis</span> and note is made of a normal appearing appendix. Thereis mucosal thickening in the distal sigmoid colon with marked adjacentinflammatory change, consistent with acute **diverticulitis**. There is <span style="color:red">noevidence</span> of **perforation** or focal **abscess** formation. There is <span style="color:red">noascites</span> or enlarged mesenteric, retroperitoneal or inguinal lymphnodes. There is degenerative disc disease and facet OA at L5/S1. Thereare **no** aggressive appearing osseous **lesions**. IMPRESSION: There is acute sigmoid **diverticulitis without associatedabscess** or **perforation**. Additional uncomplicated **diverticula** are notedthroughout the remainder of the colon.
 
 
 Example 2--What we did  
